@@ -10,7 +10,7 @@ Hey, I'm Maurício de Moura, an enthusiastic and passionate developer on a quest
 - 🔧 **TypeScript**
 - 🔧 **JAVA**
 - 🔧 **PHP**
-- 🎨 **React**
+- 🎨 **Angular and React**
 - 🚀 **Node.js**
 - 🗃️ **Database**
 
