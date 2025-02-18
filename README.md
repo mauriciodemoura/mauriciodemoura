@@ -6,13 +6,11 @@ Hey, I'm Maurício de Moura, an enthusiastic and passionate developer on a quest
 
 ## What I Bring to the Table 💼
 
-- 🔧 **JavaScript**
-- 🔧 **TypeScript**
+- 🔧 **JS and TS**
 - 🔧 **JAVA**
-- 🔧 **PHP**
 - 🎨 **Angular and React**
 - 🚀 **Node.js**
-- 🗃️ **Database**
+- 🗃️ **SQL and NoSQL**
 
 Let's connect and create wonders! 🌟
 
